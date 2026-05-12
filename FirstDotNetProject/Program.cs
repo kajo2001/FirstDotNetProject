@@ -13,7 +13,7 @@ namespace FirstDotNetProject
             int a = 10;
             int b = 20;
             int sum = a + b;
-            Console.WriteLine("Addition is : " + sum)
+            Console.WriteLine("Addition is : " + sum);
 
         }
     }
